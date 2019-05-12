@@ -15,6 +15,8 @@ Movie Review Classification using NLP(Natural Language Processing) and ML(Machin
 
 --> TESTED PREDICTOINS ON LATEST MOVIES REVIEWS (BY GIVING INPUT SPECIFICALLY).
 
+**-->** SVM classifier : https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
+
 
 
 CLASSIFICATION REPORT :
